@@ -1,5 +1,10 @@
 public class pra2{
 	public static void main(String[] args){
-		System.out.println("Hello world");
+		int cnt;
+		cnt = 0;
+		while( cnt < 100 ){
+			System.out.println("Hello world");
+			cht = cnt + 1;
+		}
 	}
 }
